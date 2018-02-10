@@ -1,0 +1,25 @@
+{
+  "name": "p5_test",
+  "version": "1.0.0",
+  "description": "test p5.js circleci",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juaniBrunero/P5_Tests.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Juan Brunero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juaniBrunero/P5_Tests/issues"
+  },
+  "homepage": "https://github.com/juaniBrunero/P5_Tests#readme",
+  "devDependencies": {
+    "jest": "^22.2.2"
+  }
+}
